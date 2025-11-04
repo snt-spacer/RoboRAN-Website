@@ -18,11 +18,24 @@
 
 This is a landing page for all the projects related to RobRAN. Below there's the links to the code of each project:
 
-Main Code (MTLR Submission)
-- https://anonymous.4open.science/r/RobRAN-Code-E08E/
+Main Code (TMLR)
+- https://github.com/snt-spacer/RoboRAN-Code
 
 Deployment To Real Robots Code
-- https://anonymous.4open.science/r/RobRAN-Deploynment-E08E/
+- https://github.com/snt-spacer/RoboRAN-deploy-to-robot
+
+
+### BibTex
+```
+@article{
+anonymous2025roboran,
+title={Robo{RAN}: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation},
+author={Anonymous},
+journal={Submitted to Transactions on Machine Learning Research},
+year={2025},
+url={https://openreview.net/forum?id=0wDbhLeMj9},
+}
+```
 
 Overview
 -
