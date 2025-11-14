@@ -28,12 +28,14 @@ Deployment To Real Robots Code
 ### BibTex
 ```
 @article{
-anonymous2025roboran,
+el-hariry2025roboran,
 title={Robo{RAN}: A Unified Robotics Framework for Reinforcement Learning-Based Autonomous Navigation},
-author={Anonymous},
-journal={Submitted to Transactions on Machine Learning Research},
+author={Matteo El-Hariry and Antoine Richard and Ricard Marsal and Luis Felipe Wolf Batista and Matthieu Geist and C{\'e}dric Pradalier and Miguel Olivares-Mendez},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
 year={2025},
 url={https://openreview.net/forum?id=0wDbhLeMj9},
+note={}
 }
 ```
 
